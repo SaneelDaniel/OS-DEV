@@ -1,0 +1,3 @@
+/Users/danielsaneel/Desktop/Acamedics/5th Sem/CS 149/C Proj's/untitled1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/danielsaneel/Desktop/Acamedics/5th Sem/CS 149/C Proj's/untitled1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danielsaneel/Desktop/Acamedics/5th Sem/CS 149/C Proj's/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir

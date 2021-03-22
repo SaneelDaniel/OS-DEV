@@ -1,0 +1,11 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: /Users/danielsaneel/Desktop/Acamedics/5th Sem/CS 149/C Proj's/untitled/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_c9eaa/fast && 
+
+Agreeing to the Xcode/iOS license requires admin privileges, please run “sudo xcodebuild -license” and then retry this command.
+
+
+
+
+

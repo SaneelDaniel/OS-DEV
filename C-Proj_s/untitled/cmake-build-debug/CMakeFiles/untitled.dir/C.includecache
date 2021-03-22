@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/danielsaneel/Desktop/Acamedics/5th Sem/CS 149/C Proj's/untitled/main.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+string.h
+-
+sys/wait.h
+-
+fcntl.h
+-
+

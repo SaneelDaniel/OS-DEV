@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/danielsaneel/Desktop/Acamedics/5th Sem/CS 149/C Proj's/untitled3/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+pthread.h
+-
+

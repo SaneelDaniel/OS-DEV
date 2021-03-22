@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/danielsaneel/Desktop/149 workspace/bos/main.c
+stdio.h
+-
+stdlib.h
+-
+sys/mman.h
+-
+unistd.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+sys/types.h
+-
+memory.h
+-
+

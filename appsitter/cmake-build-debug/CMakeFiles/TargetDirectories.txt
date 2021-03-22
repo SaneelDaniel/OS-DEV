@@ -1,0 +1,3 @@
+/Users/danielsaneel/Desktop/149 workspace/appsitter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/danielsaneel/Desktop/149 workspace/appsitter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danielsaneel/Desktop/149 workspace/appsitter/cmake-build-debug/CMakeFiles/appsitter.dir
